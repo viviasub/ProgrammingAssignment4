@@ -27,12 +27,12 @@ using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 + downstairs
 + upstairs
 
-## The 68 variables (_????)  are:
+### In the 68 variables  jolly characters _????  stay for the following alternative:
 
 + _mean         Mean value
 + _std          Standard deviation
 
-
+### Variable
 
 + Time_Acc_????_XYZ
 + Time_Gyro_????_XYZ
