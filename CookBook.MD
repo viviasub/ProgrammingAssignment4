@@ -1,4 +1,4 @@
-#Code Book
+# Code Book
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals
 
@@ -14,12 +14,12 @@ Then they were filtered using a median filter and a 3rd order low pass Butterwor
 using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 
 
-#Data Dictionary
+# Data Dictionary
 
-##Subjects:
+### Subjects:
 + Human subject number: 1..30 
 
-##Activities:
+### Activities:
 + lay
 + sit
 + stand
@@ -27,7 +27,8 @@ using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 + downstairs
 + upstairs
 
-##The 68 variables (_????)  are:
+## The 68 variables (_????)  are:
+
 + _mean         Mean value
 + _std          Standard deviation
 
